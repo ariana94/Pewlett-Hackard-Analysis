@@ -40,5 +40,7 @@ This gives them a small amount of employees to fill Senior positions, but they a
     - blah blah
 If Pewlett-Hackard would expand the eligible employees metor program to include employees born between 1960-1965 and hired between 1990-1999, they would have 42,254 people (14% of current employees) to partake in the program.
 ![Expand](https://user-images.githubusercontent.com/19378130/178092439-5b5d3c0e-fc64-4016-b006-191321914a45.PNG)
+
 This would allow for a much better ratio of metors to trainees in more areas across the board.
+
 ![new team title](https://user-images.githubusercontent.com/19378130/178092592-b4765a0f-d542-494c-90ba-e478bffb96cc.png)
